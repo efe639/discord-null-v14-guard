@@ -7,6 +7,11 @@
 - Ve artık sizleri köşeden izlemek yerine tahtımızı geri almaya geldik.
 - Şimdiden hazır olun artık dönme vakti.
 
+
+# Star Ve Fork Hakkında
+
+- Kafamdaki star miktarı tam belli değil ama 50 fork istiyorum bu canavara.
+
 # SSS
 
 
